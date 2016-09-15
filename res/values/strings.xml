@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Funny Selfie</string>
+    <string name="button_capture">Capture</string>
+    <string name="button_share">Share</string>
+    <string name="admob_banner">1234</string>
+    <string name="admob_interstitial">1234</string>
+
+</resources>
